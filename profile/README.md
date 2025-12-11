@@ -1,1 +1,1 @@
-![MK8DX-Lounge GitHub Banner](https://github.com/mk8dx-yuzu/.github/assets/56404895/e4ddefde-6ef8-410a-b518-54632df076ed)
+<img width="1920" height="400" alt="MK8DX-yuzu Lounge GitHub Banner" src="https://github.com/user-attachments/assets/6256a908-cc93-494c-8522-ddc9a415091b" />
